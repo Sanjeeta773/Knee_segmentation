@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Mac files
+.DS_Store
+
+# Model checkpoints
+checkpoints/*.pth
+checkpoints/*.pt
+
+# Temporary files
+.ipynb_checkpoints/
